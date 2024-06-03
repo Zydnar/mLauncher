@@ -11,10 +11,10 @@
     <string name="homescreen">Ekran główny</string>
     <string name="alignment">Wyrównanie</string>
     <string name="gestures">Gesty</string>
-    <string name="miscellaneous">Różnorodny</string>
+    <string name="miscellaneous">Różne</string>
     <!-- Home Strings -->
     <string name="hidden_apps">Ukryte aplikacje</string>
-    <string name="reorder_apps">Zamów ponownie aplikacje</string>
+    <string name="reorder_apps">Re-organizuj aplikacje</string>
     <string name="set_as_default_launcher">Ustaw jako domyślny launcher</string>
     <string name="change_default_launcher">Zmień domyślny launcher</string>
     <!-- Appearance Strings -->
@@ -31,7 +31,7 @@
     <string name="background_opacity">Krycie tła</string>
     <string name="all_apps_text">Wyświetl tekst wszystkich aplikacji</string>
     <!-- Behavior Strings -->
-    <string name="auto_show_keyboard">Auto show keyboard</string>
+    <string name="auto_show_keyboard">Automatyczne otwieranie klawiatury</string>
     <string name="auto_open_apps">Automatyczne otwieranie aplikacji</string>
     <string name="enable_notifications">Włącz powiadomienia</string>
     <string name="display_recent_apps">Wyświetl najnowsze aplikacje</string>
@@ -75,7 +75,7 @@
     <string name="open_app">Otwórz aplikację</string>
     <string name="lock_screen">Ekran blokady</string>
     <string name="open_quick_settings">Szybkie ustawienia</string>
-    <string name="show_recents">Show Recents</string>
+    <string name="show_recents">Pokaż ostatnie</string>
     <string name="open_power_dialog">Dialog zasilania</string>
     <string name="take_a_screenshot">Zrób zrzut ekranu</string>
     <string name="left_page">Przejdź do lewej strony</string>
@@ -88,8 +88,8 @@
     <!-- Backup Strings -->
     <string name="backup">Kopia zapasowa</string>
     <string name="load_backup">Obciążenie</string>
-    <string name="save_backup">Ratować</string>
-    <string name="clear_backup">Jasne</string>
+    <string name="save_backup">Kopia zapasowa</string>
+    <string name="clear_backup">Usuń backupy</string>
     <!-- Settings Strings -->
     <string name="off">Wyłączony</string>
     <string name="on">Włączone</string>
@@ -136,7 +136,7 @@
     <string name="text_biometric_login">Logowanie biometryczne do mLaunchera</string>
     <string name="text_biometric_login_sub">Zaloguj się przy użyciu danych biometrycznych</string>
     <!-- Crash Strings -->
-    <string name="acra_crash">Rozbić się</string>
+    <string name="acra_crash">Błąd krytyczny</string>
     <string name="acra_dialog_text">Przepraszamy, ale %1$s napotkał nieoczekiwany problem i musi zostać zamknięty. Pomóż nam ulepszyć usługę, wysyłając raport o awarii.\n\n%1$s ceni Twoją prywatność, a zebrane dane służą wyłącznie do poprawy stabilności aplikacji. Nie są gromadzone żadne dane osobowe. Dziękuję za Twoje wsparcie!</string>
     <string name="acra_send_report">Wyślij raport</string>
     <string name="acra_dont_send">Nie wysyłaj</string>
@@ -151,7 +151,7 @@
     <string name="search_swisscow">SwissCows</string>
     <!-- Unsorted Strings -->
     <string name="show_apps">Wszystkie aplikacje</string>
-    <string name="total_screen_time">Całkowity czas ekranu</string>
+    <string name="total_screen_time">Całkowity czas użytkowania</string>
     <string name="can_not_delete_system_apps">Nie można usunąć aplikacji systemowych</string>
     <string name="please_select_app">Wybierz aplikację</string>
     <string name="drawer_list_empty_hint">Nie znaleziono aplikacji</string>
